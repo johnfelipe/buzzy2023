@@ -1,0 +1,13 @@
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+.phpunit.result.cache
+
+/node_modules
+
+storage/installed
+.DS_Store
+supervisord.log
+supervisord.pid
